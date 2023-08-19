@@ -1,0 +1,41 @@
+* Task * @Dizzerry @~Tario @DIZZERRY 
+Design File:
+https://www.figma.com/file/D4YE6r8rnwMPqjhSouU4cP/Week-1-Self-Practice?type=design&node-id=0%3A1&mode=design&t=RNyEVyQeq8tLx8E8-1
+There are two frames, one for Enu and another for Tario
+
+
+Todo: 
+Create a new project, 
+initialize git (git init)
+initialize new npm project (npm init)
+install bootstrap (npm install bootstrap)
+
+Copy and paste components from the following pages then paste
+to give exactly what I designed. Hint (use inspect element on your browser to copy the sections you need)
+
+https://getbootstrap.com/docs/5.3/examples/
+https://getbootstrap.com/docs/5.3/examples/headers/
+https://getbootstrap.com/docs/5.3/examples/footers/
+https://getbootstrap.com/docs/5.3/examples/album/
+https://getbootstrap.com/docs/5.3/examples/carousel/
+https://getbootstrap.com/docs/5.3/examples/cover/
+https://getbootstrap.com/docs/5.3/examples/pricing/
+https://getbootstrap.com/docs/5.3/examples/jumbotrons/
+
+
+Mode of submission
+Create a github repository
+push all changes to the github repository
+
+
+
+share the github repository with the completed work on Saturday Morning 17th August.
+  
+
+
+result. 
+
+
+
+
+Good luck
